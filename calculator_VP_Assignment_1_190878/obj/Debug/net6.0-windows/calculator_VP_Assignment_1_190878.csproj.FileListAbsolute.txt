@@ -1,0 +1,17 @@
+C:\Users\HP\source\repos\calculator_VP_Assignment_1_190878\calculator_VP_Assignment_1_190878\bin\Debug\net6.0-windows\calculator_VP_Assignment_1_190878.exe
+C:\Users\HP\source\repos\calculator_VP_Assignment_1_190878\calculator_VP_Assignment_1_190878\bin\Debug\net6.0-windows\calculator_VP_Assignment_1_190878.deps.json
+C:\Users\HP\source\repos\calculator_VP_Assignment_1_190878\calculator_VP_Assignment_1_190878\bin\Debug\net6.0-windows\calculator_VP_Assignment_1_190878.runtimeconfig.json
+C:\Users\HP\source\repos\calculator_VP_Assignment_1_190878\calculator_VP_Assignment_1_190878\bin\Debug\net6.0-windows\calculator_VP_Assignment_1_190878.dll
+C:\Users\HP\source\repos\calculator_VP_Assignment_1_190878\calculator_VP_Assignment_1_190878\bin\Debug\net6.0-windows\calculator_VP_Assignment_1_190878.pdb
+C:\Users\HP\source\repos\calculator_VP_Assignment_1_190878\calculator_VP_Assignment_1_190878\obj\Debug\net6.0-windows\calculator_VP_Assignment_1_190878.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\calculator_VP_Assignment_1_190878\calculator_VP_Assignment_1_190878\obj\Debug\net6.0-windows\calculator_VP_Assignment_1_190878.Form1.resources
+C:\Users\HP\source\repos\calculator_VP_Assignment_1_190878\calculator_VP_Assignment_1_190878\obj\Debug\net6.0-windows\calculator_VP_Assignment_1_190878.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\calculator_VP_Assignment_1_190878\calculator_VP_Assignment_1_190878\obj\Debug\net6.0-windows\calculator_VP_Assignment_1_190878.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\calculator_VP_Assignment_1_190878\calculator_VP_Assignment_1_190878\obj\Debug\net6.0-windows\calculator_VP_Assignment_1_190878.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\calculator_VP_Assignment_1_190878\calculator_VP_Assignment_1_190878\obj\Debug\net6.0-windows\calculator_VP_Assignment_1_190878.AssemblyInfo.cs
+C:\Users\HP\source\repos\calculator_VP_Assignment_1_190878\calculator_VP_Assignment_1_190878\obj\Debug\net6.0-windows\calculator_VP_Assignment_1_190878.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\calculator_VP_Assignment_1_190878\calculator_VP_Assignment_1_190878\obj\Debug\net6.0-windows\calculator_VP_Assignment_1_190878.dll
+C:\Users\HP\source\repos\calculator_VP_Assignment_1_190878\calculator_VP_Assignment_1_190878\obj\Debug\net6.0-windows\refint\calculator_VP_Assignment_1_190878.dll
+C:\Users\HP\source\repos\calculator_VP_Assignment_1_190878\calculator_VP_Assignment_1_190878\obj\Debug\net6.0-windows\calculator_VP_Assignment_1_190878.pdb
+C:\Users\HP\source\repos\calculator_VP_Assignment_1_190878\calculator_VP_Assignment_1_190878\obj\Debug\net6.0-windows\calculator_VP_Assignment_1_190878.genruntimeconfig.cache
+C:\Users\HP\source\repos\calculator_VP_Assignment_1_190878\calculator_VP_Assignment_1_190878\obj\Debug\net6.0-windows\ref\calculator_VP_Assignment_1_190878.dll

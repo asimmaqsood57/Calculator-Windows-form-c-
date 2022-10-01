@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "calculator_VP_Assignment_1_190878/1.0.0": {
+        "runtime": {
+          "calculator_VP_Assignment_1_190878.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "calculator_VP_Assignment_1_190878/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
